@@ -1,0 +1,11 @@
+/Users/apple/Desktop/C#/obj/Debug/netcoreapp2.2/C#.csprojAssemblyReference.cache
+/Users/apple/Desktop/C#/obj/Debug/netcoreapp2.2/C#.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/C#/obj/Debug/netcoreapp2.2/C#.AssemblyInfoInputs.cache
+/Users/apple/Desktop/C#/obj/Debug/netcoreapp2.2/C#.AssemblyInfo.cs
+/Users/apple/Desktop/C#/bin/Debug/netcoreapp2.2/C#.deps.json
+/Users/apple/Desktop/C#/bin/Debug/netcoreapp2.2/C#.runtimeconfig.json
+/Users/apple/Desktop/C#/bin/Debug/netcoreapp2.2/C#.runtimeconfig.dev.json
+/Users/apple/Desktop/C#/bin/Debug/netcoreapp2.2/C#.dll
+/Users/apple/Desktop/C#/bin/Debug/netcoreapp2.2/C#.pdb
+/Users/apple/Desktop/C#/obj/Debug/netcoreapp2.2/C#.dll
+/Users/apple/Desktop/C#/obj/Debug/netcoreapp2.2/C#.pdb
